@@ -16,7 +16,8 @@ print("√√√√√√√√√√√")
 
 while i<number:
 
-	print (text)	i=i+1
+	print (text)
+	i=i+1
 
 print("✓✓™™™✓✓✓")
 
